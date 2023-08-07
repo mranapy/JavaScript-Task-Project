@@ -1,5 +1,5 @@
 # JavaScript-Task-Project
--------------------------
+
 Bootstrap=4 Using, JavaScript
 -----------------------------
 Java Script Work Step:
@@ -10,3 +10,4 @@ Java Script Work Step:
 5. Local Storage set --- functionName > storeTaskLocalStorage()
 6. Get from Local Storage --- functionName > getTask()
 7. Remove from Local Storage --- functionName > removeFormLS()
+
